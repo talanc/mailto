@@ -1,5 +1,12 @@
 *This project is a work-in-progress and is not ready at this stage*
 
+# TODO List
+* Add basic attachment support
+* Add wildcard attachment support
+* Allow body to be specified from stdin
+* Add C# / VB.NET classes
+* Make release
+
 # mailto.exe
 Simple command line helper for MAPISendMailW
 
